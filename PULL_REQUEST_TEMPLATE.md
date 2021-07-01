@@ -1,51 +1,43 @@
-<!-- Please refer to our contributing documentation for any questions on submitting a pull request, or let us know here if you need any help: https://ionicframework.com/docs/building/contributing -->
-
 ## Pull request checklist
 
-Please check if your PR fulfills the following requirements:
-- [ ] Tests for the changes have been added (for bug fixes / features)
-- [ ] Docs have been reviewed and added / updated if needed (for bug fixes / features)
-- [ ] Build (`npm run build`) was run locally and any changes were pushed
-- [ ] Lint (`npm run lint`) has passed locally and any fixes were made for failures
+<!-- To check a box replace the space with an x e.g. [x] -->
 
+This PR fulfils the following requirements:
+
+- [ ] Tests for the changes have been added (for bug fixes/features)
+- [ ] Documentation has been reviewed and added/updated where required
+- [ ] Linting has been run locally and fixes applied for any issues
 
 ## Pull request type
 
-<!-- Please do not submit updates to dependencies unless it fixes an issue. -->
+<!-- Limit pull requests to one type where possible, submit multiple pull requests if needed -->
 
-<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
+This PR introduces the following types of changes:
 
-Please check the type of change your PR introduces:
 - [ ] Bugfix
 - [ ] Feature
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
-- [ ] Other (please describe):
+- [ ] Documentation
+- [ ] Other: <!-- If selected, describe the type -->
 
+## Link to issue/card
 
-## What is the current behavior?
-<!-- Please describe the current behavior that you are modifying, or link to a relevant issue. -->
+<!-- Include links to the relevant trello, jira, or similar items -->
 
-Issue Number: N/A
+## What is the current behaviour?
 
+<!-- Describe the current behaviour that you are modifying -->
 
-## What is the new behavior?
-<!-- Please describe the behavior or changes that are being added by this PR. -->
+## What is the new behaviour?
 
--
--
--
+<!-- Describe the behaviour or changes that are being introduced by this PR -->
 
 ## Does this introduce a breaking change?
+
+<!-- If this introduces a breaking change, describe the impact and migration path for existing applications below -->
 
 - [ ] Yes
 - [ ] No
 
-<!-- If this introduces a breaking change, please describe the impact and migration path for existing applications below. -->
-
-
 ## Other information
 
-<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change. -->
+<!-- Include any other information that is important to this PR such as screenshots of how the component looks before and after the change -->
